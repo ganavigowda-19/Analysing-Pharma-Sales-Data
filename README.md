@@ -72,4 +72,4 @@ The dataset contains ATC drug categories rather than individual drug brand names
 
 ## Project Page URL
 
-[Paste your GitHub project URL here]
+https://roadmap.sh/projects/pharmaceutical-sales-data
